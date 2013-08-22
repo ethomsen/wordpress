@@ -1,0 +1,4 @@
+wordpress
+=========
+
+WordPress Child Theme
